@@ -1,0 +1,10 @@
+Para usar a versão windows, basta apenas executar o main.exe dentro da pasta, pois dentro dela possui uma dll para o programa funcionar
+
+Para usar a versão linux existem 2 formas:
+
+1º via ambiente grafico:
+Entre na pasta linux,localize o compilador.sh, em seguida clique com o botão direito , propriedades, va na aba permissões e marque a opção "Permitir a execução do arquivo como um programa".
+Em seguida pode fechar e de 2 cliques em compilador.sh que sera executado o codigo
+
+2º via terminal:
+Abra o terminal , entre na pasta linux, dentro da pasta digite chmod +x compilador.sh e em seguida digite  ./compilador.sh 
